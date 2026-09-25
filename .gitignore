@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.worktrees/
+DEPLOY_STATUS.md
+*.bak
+.DS_Store
